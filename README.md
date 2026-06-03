@@ -193,8 +193,7 @@ sigaction()  // Install signal handlers
 **Sajid**
 B.Tech Electrical Engineering | Embedded Systems Trainee @ Emertxe, Bengaluru
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat-square&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat-square&logo=github)](https://github.com/nayakawadesajid111-hue)
 
 ---
 
